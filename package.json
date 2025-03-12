@@ -7,7 +7,7 @@
     "nodemailer": "^6.10.0"
   },
   "scripts": {
-    "start": "python server.py",
+    "start": "python3 server.py",
     "postinstall": "pip install -r requirements.txt"
   }
 }
